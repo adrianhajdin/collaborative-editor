@@ -9,18 +9,40 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^5.2.4",
+    "@clerk/themes": "^2.1.12",
+    "@lexical/react": "^0.16.1",
+    "@liveblocks/client": "^2.3.0",
+    "@liveblocks/node": "^2.3.0",
+    "@liveblocks/react": "^2.3.0",
+    "@liveblocks/react-lexical": "^2.3.0",
+    "@liveblocks/react-ui": "^2.3.0",
+    "@radix-ui/react-dialog": "^1.1.1",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-popover": "^1.1.1",
+    "@radix-ui/react-select": "^2.1.1",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@sentry/nextjs": "^8.18.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "jsm-editor": "^0.0.12",
+    "lexical": "^0.16.1",
+    "lucide-react": "^0.408.0",
+    "nanoid": "^5.0.7",
+    "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "tailwind-merge": "^2.4.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.5"
+    "typescript": "^5"
   }
 }
