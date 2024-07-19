@@ -25,7 +25,7 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
+6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
 ## 🚨 Tutorial
@@ -1196,7 +1196,7 @@ export const Notifications = () => {
 
 </details>
 
-## <a name="links">🔗 Assets</a>
+## <a name="links">🔗 Links</a>
 
 - Public assets used in the project can be found [here](https://drive.google.com/file/d/1MCQaP-imgDdopwcUn4CN_D-WglDc--Ho/view?usp=sharing)
 - [Liveblocks Starter Guide](https://liveblocks.io/docs/get-started/nextjs-lexical)
