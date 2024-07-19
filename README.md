@@ -90,8 +90,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/livedocs.git
-cd livedocs
+git clone https://github.com/adrianhajdin/collaborative-editor.git
+cd collaborative-editor
 ```
 
 **Installation**
@@ -1076,7 +1076,7 @@ export const DeleteModal = ({ roomId }: DeleteModalProps) => {
 </details>
 
 <details>
-<summary><code>components/notifications.ts</code></summary>
+<summary><code>components/Notifications.ts</code></summary>
 
 ```typescript
 "use client";
@@ -1198,7 +1198,8 @@ export const Notifications = () => {
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/file/d/1MCQaP-imgDdopwcUn4CN_D-WglDc--Ho/view?usp=sharing)
+- Public assets used in the project can be found [here](https://drive.google.com/file/d/1MCQaP-imgDdopwcUn4CN_D-WglDc--Ho/view?usp=sharing)
+- [Liveblocks Starter Guide](https://liveblocks.io/docs/get-started/nextjs-lexical)
 
 ## <a name="more">🚀 More</a>
 
