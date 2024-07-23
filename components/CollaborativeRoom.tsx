@@ -42,7 +42,7 @@ const CollaborativeRoom = ({ roomId, roomMetadata, users, currentUserType }: Col
 
   useEffect(() => {
     const handleClickOutside = (e: MouseEvent) => {
-      if(containerRef.current && !containerRef.current.contains(e.target as Node)) {
+      if(inputRef.current && containerRef.current && !containerRef.current.contains(e.target as Node)) {
         setEditing(false);
         updateDocument(roomId, documentTitle);
       }
