@@ -152,7 +152,7 @@
 
   /* ======================== Auth Pages */
   .auth-page {
-    @apply flex h-screen w-full flex-col items-center justify-center gap-10;
+    @apply flex min-h-screen w-full flex-col items-center justify-center p-4;
   }
 
   /* ======================== Home Page */
