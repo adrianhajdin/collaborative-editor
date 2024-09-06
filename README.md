@@ -579,7 +579,7 @@ declare type ShareDocumentDialogProps = {
 };
 
 declare type HeaderProps = {
-  children: React.ReactNode;
+  Children: React.ReactNode;
   className?: string;
 };
 
